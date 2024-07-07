@@ -16,7 +16,7 @@
 
 体绘制(基于曲面绘制)展示：
 
-![image-20240706195955564](C:\Users\LL\AppData\Roaming\Typora\typora-user-images\image-20240706195955564.png)
+![image_SurfaceDrawing](images/image_SurfaceDrawing.png)
 
 ##### 模块3：切片。
 
@@ -24,13 +24,13 @@
 
 效果展示：
 
-![image-20240706200144897](C:\Users\LL\AppData\Roaming\Typora\typora-user-images\image-20240706200144897.png)
+![](images/image_section.png)
 
 ##### 模块4：等值面。
 
 可以进行提取数据中某一特定值在三维空间上的分布。
 
-![image-20240706200250026](C:\Users\LL\AppData\Roaming\Typora\typora-user-images\image-20240706200250026.png)
+![](images/image_isosurface.png)
 
 ##### 模块5：断层识别。
 
@@ -38,21 +38,21 @@
 
 合成地震数据：
 
-<img src="C:\Users\LL\AppData\Roaming\Typora\typora-user-images\image-20240706200814602.png" alt="image-20240706200814602" style="zoom:33%;" />
+<img src="images/image_seismic.png" style="zoom:33%;" />
 
 断层标注数据：
 
-<img src="C:\Users\LL\AppData\Roaming\Typora\typora-user-images\image-20240706200930010.png" alt="image-20240706200930010" style="zoom:33%;" />
+<img src="images/image_label.png" style="zoom:33%;" />
 
 断层识别结果：
 
-<img src="C:\Users\LL\AppData\Roaming\Typora\typora-user-images\image-20240706200714706.png" alt="image-20240706200714706" style="zoom:33%;" />
+<img src="images/image_predict.png" style="zoom:33%;" />
 
 
 
 系统主题界面：
 
-![image-20240706194815456](C:\Users\LL\Desktop\基于地震数据的三维可视化显示\image-20240706194815456.png)
+<img src="images/image_mainWindow.png" style="zoom: 67%;" />
 
 #### 环境安装：
 
